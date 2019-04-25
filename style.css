@@ -1,0 +1,11 @@
+#main-container{
+  text-align: center;
+  margin: auto;
+  background-color: lightgray; 
+  
+}
+
+li{
+  list-style-type: none;
+  text-align: center;
+}
