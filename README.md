@@ -1,1 +1,1 @@
-//Wikisearch API & using Axios
+//Wikisearch API & using Axios JS
